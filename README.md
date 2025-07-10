@@ -1,5 +1,7 @@
 # Arca Noé - Landing Page
 
+![Hero principal](public/hero.jpg)
+
 Landing page para el centro de eventos infantiles "Arca Noé" ubicado en Los Maitenes, San Vicente.
 
 ## 🎨 Características
@@ -40,8 +42,8 @@ Landing page para el centro de eventos infantiles "Arca Noé" ubicado en Los Mai
 arcanoe/
 ├── index.html              # Página principal
 ├── public/                 # Imágenes y assets
-│   ├── hero.jpg.placeholder     # Imagen hero (reemplazar)
-│   └── bg-services.png.placeholder # Fondo servicios (opcional)
+│   ├── hero.jpg            # Imagen hero (reemplazar)
+│   └── bg-services.png     # Fondo servicios (opcional)
 └── README.md               # Este archivo
 ```
 
@@ -49,8 +51,8 @@ arcanoe/
 
 Reemplaza los archivos placeholder con las imágenes reales:
 
-- **hero.jpg** (1920x1080px, <100KB): Imagen principal del centro Arca Noé
-- **bg-services.png** (opcional): Imagen de fondo para la sección de servicios (puedes usar solo gradientes CSS)
+- ![Hero](public/hero.jpg) `public/hero.jpg` (1920x1080px, <100KB): Imagen principal del centro Arca Noé
+- ![Servicios](public/bg-services.png) `public/bg-services.png` (opcional): Imagen de fondo para la sección de servicios (puedes usar solo gradientes CSS)
 
 ## 🎯 Optimización y buenas prácticas
 
